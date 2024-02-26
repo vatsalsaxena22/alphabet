@@ -6,4 +6,4 @@ This Website contains all alphabet with words and also their pictures.
 
 Other Details:-
 
-*Domain:- https://alphabet-vs.netlify.com*
+*Website URL:- https://alphabet-vs.netlify.com*
