@@ -71,32 +71,16 @@ img{
 
 /* Alphabet v2.0 */
 .v2{
-    position: fixed;
-    bottom: 10px;
-    right: 10px;
-    width: 60%;
+    display: block;
     background-color: #fff;
-    border: 5px dashed orangered;
-    padding: 10px;
+    border: 10px solid orangered;
+    padding: 20px;
 }
-.v2 h3,
-.v2 h2{
-    color: #fff;
-    background-color: orangered;
-    border: none;
-    margin: 10px;
-    padding: 5px;
-    font-size: 100%;
-}
-.v2 a {
-    font-size: 150%;
-    line-height: 2;
-    background-color: #fff;
+.v2 h2, .v2 h3{
     color: orangered;
-    border: 5px dashed orangered;
+    background-color: #fff;
+    border: none;
 }
-.v2 a:hover{
-    background-color: orangered;
-    color: white;
-    text-decoration: underline;
+.v2 a{
+    font-size: 32px;
 }
